@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import {styled} from 'styled-components';
 
 const Column2Styled = styled.div`
     display: flex;

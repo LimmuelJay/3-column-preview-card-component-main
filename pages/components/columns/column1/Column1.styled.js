@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import {styled}  from 'styled-components';
 
 const Column1Styled = styled.div`
     display: flex;
@@ -8,7 +8,6 @@ const Column1Styled = styled.div`
     background-color: hsl(31, 77%, 52%);
     border-radius: 5px 0 0 5px;
     padding: 30px;
-
 
     .column-head {
         height: 15%;

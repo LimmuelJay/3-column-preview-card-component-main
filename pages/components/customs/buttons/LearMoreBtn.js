@@ -1,7 +1,6 @@
-import styled from 'styled-components';
+import {styled} from 'styled-components';
 
 const ButtonStyled = styled.div`
-
 
     button {
         background-color: hsl(0, 0%, 95%);

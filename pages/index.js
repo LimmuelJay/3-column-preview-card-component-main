@@ -1,7 +1,7 @@
 import Head from "next/head";
 import GlobalStyles from "@/styles/Global";
 import Main from '@/pages/components/main/Main'
-import {IndexStyled} from "@/pages/index.styled";
+import IndexStyled from "@/pages/index.styled";
 
 export default function Home() {
   return (

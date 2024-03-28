@@ -1,7 +1,8 @@
 import styled from "styled-components"
 
-export const IndexStyled = styled.div`
+const IndexStyled = styled.div`
     display: flex;
     justify-content: center;
 
 `
+export default IndexStyled
